@@ -1,0 +1,12 @@
+
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio local settings
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+Thumbs.db
